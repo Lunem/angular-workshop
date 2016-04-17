@@ -4,7 +4,13 @@ countersApp.controller("countersCtrl",function(){
   self.increment = function(){
     self.count++;
   };
+<<<<<<< HEAD
   // self.decrement = function() {
   //   self.count--;
   // };
+=======
+  self.decrement = function() {
+    self.count--;
+  };
+>>>>>>> exo1
 });
